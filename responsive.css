@@ -1,0 +1,70 @@
+@media screen and (max-width:1400px){
+    .nameMain{
+        margin-left: 100px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .imgMainHeader{
+        width: 950px;
+        margin: auto;
+    }
+    
+    .whoI{
+        margin: 25px 100px;
+        font-weight: 900;
+        width: 210px;
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 975px){
+    .imgMainHeader img{
+        width: 90%;
+    }
+    .maket img{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 992px){
+    .imgMainHeader{
+        max-width: 100%;
+    }
+    .whoI{
+        margin: auto;
+        font-weight: 900;
+        width: 210px;
+        font-size: 18px;
+    }
+    .nameMain{
+        margin-left: 10px;
+    }
+    
+    
+}
+@media screen and (max-width: 768px){
+    .cardsMainHeader {
+        margin: 50px 10%;
+    }
+    .imgMainHeader img{
+        padding-top: 5%;
+    }
+    .whoI {
+        margin: 25px 7%;
+        width: 373pX;
+    }
+    .afterMainHeder {
+        margin-left: 85px;
+    }
+
+}
+@media screen and (max-width: 576px){    
+    .mainMain {
+        margin-top: -100px;
+    }
+    .headerMenu *{
+        font-size: 12px;
+    }
+    .cardSots{
+        flex-wrap: wrap;
+    }
+    
+}
